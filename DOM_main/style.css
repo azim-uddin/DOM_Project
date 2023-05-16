@@ -1,0 +1,54 @@
+body{
+    background-color:#f0ead2;
+}
+.container{
+    display: flex;
+    background-color:grey;
+
+}
+
+.figure_1{
+    padding: 25px;
+    margin: 25px;
+    height: 400px;
+    width: 350px;
+    text-align: center;
+    border: 3px solid burlywood;
+}
+
+.figure_2{
+    padding: 25px;
+    margin: 25px;
+    height: 400px;
+    width: 350px;
+    text-align: center;
+    border: 3px solid burlywood;
+}
+
+.figure_3{
+    padding: 25px;
+    margin: 25px;
+    height: 400px;
+    width: 350px;
+    text-align: center;
+    border: 3px solid burlywood;
+}
+
+.figure_4{
+    padding: 25px;
+    margin: 25px;
+    height: 400px;
+    width: 350px;
+    text-align: center;
+    border: 3px solid burlywood;
+}
+
+.btn{
+    background-color:greenyellow;
+    border-radius: 5px;
+    padding-left:3px;
+    padding-right: 3px;
+    padding-bottom:3px;
+    padding-top: 3px;
+    margin-top: 10px;
+}
